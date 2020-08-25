@@ -1,5 +1,20 @@
-# A Gm-C Filter Bank for Supraharmonic Analysis Application
-Autors:
-Mateus X. Ferreira; Thais M. Mendes; Leandro R. M. Silva; Estevão C. Teixeira; Carlos A. Duque;
+## A Gm-C Filter Bank for Supraharmonic Analysis Application
 
-*Banco de Filtros.rar >> Simulations of the Filter Bank in LTSpice || *Valores.xlsx >> Transconductance values of the Filter Bank.
+### Repository Content
+
+* [Paper in PDF]([Root](/gmCFilter.pdf)) - Published at the 20th Microelectronics Student Forum, August 2020.
+* [MATLAB Code]([Root](/gmCFilter.m)) - This code calculates the transfer functions of the filters, and the transconductances values necessary to implement these filters using the chosen topology.
+* [Python Code]([Root](/Gm-C_Filter_Bank.ipynb)) - This code does the same as the MATLAB code, but using Python. It was written using `Jupyter Notebooks`, so you can view the code and the results without having to run it.
+* [Simulations]([Root](/FilterBank.rar)) - LTSpice simulations of the proposed filter bank.
+* [Excel Table]([Root](/Valores.xlsx)) - Table with the transconductance values found for each filter of the bank.
+
+
+### Authors
+
+| Name | E-mail|
+| :---:  | :---: |
+| Mateus Xavier Ferreira | mateus.xavier@engenharia.ufjf.br |
+| Thais Martins Mendes | martins.thais@engenharia.ufjf.br |
+| Leandro R. M. Silva | leandro.manso@ufjf.edu.br |
+| Estêvão Coelho Teixeira | estevao.teixeira@ufjf.edu.br |
+| Carlos Augusto Duque | carlos.duque@ufjf.edu.br |
